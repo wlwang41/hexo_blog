@@ -86,5 +86,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: git@github.com/Linusp/hexo_blog
+  repository: git@github.com/Linusp/hexo_blog.git
   branch: gh-pages
