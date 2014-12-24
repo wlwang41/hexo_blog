@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>测试</title>
-  <link href="/"/>
-  <link type= "application/atom+xml" href="/atom.xml" rel="self"/>
+  <link href="http://linusp.github.io/hexo_blog/"/>
+  <link type= "application/atom+xml" href="http://linusp.github.io/hexo_blog/atom.xml" rel="self"/>
   <updated>2014-07-20</updated>
-  <id></id>
+  <id>http://linusp.github.io/hexo_blog</id>
   <author>
     <name>linusp</name>
   </author>
@@ -13,8 +13,8 @@
   
   <entry>
     <title>测试</title>
-    <link type="text/html" rel="alternate" href="/content/blog/测试.html"/>
-    <id>/content/blog/测试.html</id>
+    <link type="text/html" rel="alternate" href="http://linusp.github.io/hexo_blog/content/blog/测试.html"/>
+    <id>http://linusp.github.io/hexo_blog/content/blog/测试.html</id>
     <published>2014-12-24 16:43</published>
     <updated>2014-12-24 16:43</updated>
     <content type="html">
@@ -24,8 +24,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link type="text/html" rel="alternate" href="/content/notes/hello.html"/>
-    <id>/content/notes/hello.html</id>
+    <link type="text/html" rel="alternate" href="http://linusp.github.io/hexo_blog/content/notes/hello.html"/>
+    <id>http://linusp.github.io/hexo_blog/content/notes/hello.html</id>
     <published>2014-06-12 00:00</published>
     <updated>2014-06-12 00:00</updated>
     <content type="html">
